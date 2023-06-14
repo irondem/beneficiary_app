@@ -1,0 +1,5 @@
+enrollment_id,household_id,household_name,household_recipient_full_name,cash_offer,phone_number
+1,1,John's,John Smith,100,+1 (555) 123-4567
+2,3,Aiden's,Clifford TURK,100,+1 (555) 987-6876
+3,7,Harper's,Samuel Flores,100,+1 (555) 746-2058
+4,4,Joseph's,Chloe Barnes,100,+1 (555) 698-1243
